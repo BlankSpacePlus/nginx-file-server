@@ -1,5 +1,5 @@
-.idea
-nginx-*
+.idea/
+nginx-*/
 nginx-*.zip
 root/audios/*.mp3
 root/images/*.jpg
