@@ -1,0 +1,7 @@
+.idea
+nginx-*
+nginx-*.zip
+root/audios/*.mp3
+root/images/*.jpg
+root/images/*.png
+root/videos/*.mp4
